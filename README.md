@@ -1,5 +1,5 @@
 # ki-profile-management
-scholarship profile management
+ki profile management
 
 
 # ki
